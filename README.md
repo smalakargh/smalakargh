@@ -4,7 +4,7 @@
 <!--This code is developed by smalakar-->
 </div>
 
-##  <a href="https://github.com/smalakargh"><img src="https://media.giphy.com/media/LpvRzoMpaL4FZkdXzM/giphy.gif?cid=ecf05e47stocdk8j3hpchnao3ybyw8jifjsl4xyie5wc9zff&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="60"/></a> I'm `Developer` by ♥️
+###  <a href="https://github.com/smalakargh"><img src="https://media.giphy.com/media/LpvRzoMpaL4FZkdXzM/giphy.gif?cid=ecf05e47stocdk8j3hpchnao3ybyw8jifjsl4xyie5wc9zff&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="20"/></a> I'm `Developer` by ♥️
 <!--This code is developed by smalakar-->
 
 ### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b7611a4xte3i8it78su2d0oveutnupuqibk4gvp20bt2g&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="18"/> Languages and Tools :
