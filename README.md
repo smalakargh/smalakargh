@@ -1,6 +1,6 @@
 <!--This code is developed by smalakar-->
 <div>
-    <a href="https://github.com/smalakargh"><img src="https://raw.githubusercontent.com/smalakargh/development/refs/heads/main/gitReadmePic.jpg"></a>
+    <a href="https://github.com/smalakargh"><img src="https://raw.githubusercontent.com/smalakargh/development/refs/heads/main/ReadmeDynamic.gif"></a>
 <!--This code is developed by smalakar-->
 </div>
 
