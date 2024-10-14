@@ -5,6 +5,7 @@
 </div>
 
 ### I'm `Developer` by ♥️
+### & `Coder` by 🧠
 <!--This code is developed by smalakar-->
 
 ### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b7611a4xte3i8it78su2d0oveutnupuqibk4gvp20bt2g&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="14"/> Languages and Tools :
